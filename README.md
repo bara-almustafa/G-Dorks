@@ -120,6 +120,8 @@ https://example.com/ads_click.php?id=155
 
 ## API Limitations ##
 The free Google API limits you to 100 searches per day, with a maximum of 10 results per search. This means if you configure dork-cli.py to return 100 results, it will issue 10 queries (1/10th of your daily limit) each time it is run. You have the option to pay for additional searches via the Google API console. At the time of writing, signing up for billing on the Google API site gets you $300 free to spend on API calls for 60 days.
+## This improvment of tool dork-cli 
+https://github.com/jgor/dork-cli
 
 ## Disclaimer
 Use this tool responsibly and ethically. Do not use it for illegal activities or to infringe upon others' privacy.
