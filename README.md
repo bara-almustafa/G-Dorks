@@ -99,7 +99,7 @@ https://example.com/link214.html
 
 2-
 <pre>
-python3 G-Dorks.py -d bing.com -e 241b6fba2b24946b5 -k  AIzaSyBUahV448bj4T7_s8pkeJrOobY50O-oIS0  --filetype php | grep -i php
+python3 G-Dorks.py -d bing.com -e <custom-search-engine-id> -k <API-Key>  --filetype php | grep -i php
 https://example.online/index.php
 https://example.com/newport.php
 https://example.com/login.php
