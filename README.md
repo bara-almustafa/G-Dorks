@@ -73,10 +73,31 @@ Search Options:
   -l LOG, --log LOG     File to save the logs
 </pre>
 ## Examples : 
+1-
+<pre>
+python3 G-Dorks.py -d bing.com -e <custom-search-engine-id> -k <API-Key>
+ 
+ .d8888b.         8888888b.                   888               
+d88P  Y88b        888  "Y88b                  888               
+888    888        888    888                  888               
+888               888    888  .d88b.  888d888 888  888 .d8888b  
+888  88888        888    888 d88""88b 888P"   888 .88P 88K      
+888    888 888888 888    888 888  888 888     888888K  "Y8888b. 
+Y88b  d88P        888  .d88P Y88..88P 888     888 "88b      X88 
+ "Y8888P88        8888888P"   "Y88P"  888     888  888  88888P' 
+                                                                
+                                                                
+             v1  made by 0xcybersoldier 
 
+Results:
+http://it.example.com/news/results.aspx
+https://maps.example.com/default.aspx?v=2&cp=25.67111~-80.44472&lvl=10
+https://example.net/weblink587.html
+https://example.com/link214.html
+...
+</pre>
 
-
-
+2- 
 
 
 
