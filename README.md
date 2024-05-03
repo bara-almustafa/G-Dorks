@@ -75,7 +75,7 @@ Search Options:
 ## Examples : 
 1-
 <pre>
-python3 G-Dorks.py -d bing.com -e <custom-search-engine-id> -k <API-Key>
+python3 G-Dorks.py -d example.com -e <custom-search-engine-id> -k <API-Key>
  
  .d8888b.         8888888b.                   888               
 d88P  Y88b        888  "Y88b                  888               
@@ -97,7 +97,25 @@ https://example.com/link214.html
 ...
 </pre>
 
-2- 
+2-
+<pre>
+python3 G-Dorks.py -d bing.com -e 241b6fba2b24946b5 -k  AIzaSyBUahV448bj4T7_s8pkeJrOobY50O-oIS0  --filetype php | grep -i php
+https://example.online/index.php
+https://example.com/newport.php
+https://example.com/login.php
+https://www.example.fr/lacote_origine.php
+https://example.com/bingobingo.php
+http://example.pl/wp/pkp.php
+https://example.com/fr/check_imei.php
+https://example.org/jadwal-sholat/monthly.php
+http://example.com/original_story.php?aid=87983504
+https://www.example.it/servizi/interessi_legali.php
+https://www.example.ru/channels/index.php
+https://example.ru/links.php?id=59
+https://www.example.it/modello_f24/modello_f24_online.php
+https://example.com/ads_click.php?id=155
+
+</pre>
 
 
 
