@@ -29,7 +29,8 @@ And to get -k  the Google API console to get API Key
 2. Navigate to the project directory.
 3. Run the following command:
 python3 G-Dorks.py -h
-`$python3 G-Dorks.py -h
+`
+$python3 G-Dorks.py -h
  
  .d8888b.         8888888b.                   888               
 d88P  Y88b        888  "Y88b                  888               
@@ -70,6 +71,7 @@ Search Options:
   -o OUTPUT, --output OUTPUT
                         File to save the results
   -l LOG, --log LOG     File to save the logs
+
 `
 ## Examples : 
 
