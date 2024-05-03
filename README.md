@@ -15,7 +15,7 @@ To get the for -e (Custom Search Engine ID )
   - Create a custom search engine via Google Custom Search https://www.google.com/cse/.
   - Add your desired domain(s) under "Sites to search."
   - Click the "Search engine ID" button to reveal the ID, or grab it from the "cx" URL parameter.
-And to get the Google API console to get API Key 
+And to get -k  the Google API console to get API Key 
 - API key:
   - Open the Google API console at https://code.google.com/apis/console.
   - Enable the Custom Search API via **APIs & auth > APIs**.
