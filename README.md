@@ -1,5 +1,5 @@
 # G-Dorks Tool
-![alt text](dorks.png)
+![alt text](dorks.jpeg)
 ## Description
 The G-Dorks tool is a simple Python script that generates Google dork strings based on provided keywords. A Google dork is a search query that uses advanced search operators to find information that is not readily accessible through simple searches.
 
