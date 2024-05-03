@@ -172,7 +172,8 @@ def main():
     search_group.add_argument('--detailed_dorks', action='store_true', help='Display detailed dorks')
     search_group.add_argument('-o', '--output', required=False, help='File to save the results')
     search_group.add_argument('-l', '--log', required=False, default='G-Dorks.log', help='File to save the logs')
-    
+    search_group.add_argument('--filetypes', required=False, help='Comma-separated list of file types to search for')
+
     # Add options outside the search group
     parser.add_argument('-d', '--domain', required=not any(arg in sys.argv for arg in ['--dorks', '--detailed_dorks']), help='Specific domain to search (instead of all domains defined in CSE)')
     parser.add_argument('-e', '--engine', required=not any(arg in sys.argv for arg in ['--dorks', '--detailed_dorks']), help='Google custom search engine id (cx value)')
